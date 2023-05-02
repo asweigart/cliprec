@@ -1,0 +1,3 @@
+import cliprec
+
+cliprec.main()
