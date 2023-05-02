@@ -4,7 +4,7 @@ By Al Sweigart al@inventwithpython.com"""
 import pyperclip
 import time
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 def main():
     print('Recording clipboard... (Ctrl-C to stop)')
